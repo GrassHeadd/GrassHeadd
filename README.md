@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **GrassHeadd/GrassHeadd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Oh hello there, general Github user 👋
+🔭 Currently working on something (that's almost cool)  
+🌱 Currently learning (always has been)  
+🌊 Presently in my trying to build jarvis in real life era  
