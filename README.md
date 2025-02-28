@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 🔭 Currently working on something (that's almost cool)  
 🌱 Currently learning (always has been)  
 🌊 Presently in my trying to build jarvis in real life era  
+⚡ I always prioritize projects that excite me, rather than building purely for a portfolio
