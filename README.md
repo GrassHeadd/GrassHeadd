@@ -12,6 +12,8 @@ I’m **Junjie (JJ)**, a software engineer. I like taking ideas from rough proto
 
 I’m currently building frontend tools at **Tencent**. Previously, I shipped AI procurement products at **Didero** in New York and worked on multilingual model post-training at **AI Singapore**. More about that work is on [my website](https://www.junjiehu.com).
 
+**Current rabbit hole:** learning AI infrastructure, especially [vLLM](https://github.com/vllm-project/vllm) and how to serve models efficiently.
+
 ### Things I’ve built
 
 | Project | What it does |
