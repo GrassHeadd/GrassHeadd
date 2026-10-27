@@ -8,9 +8,9 @@
   <a href="https://linkedin.com/in/junjiehu1">LinkedIn</a>
 </p>
 
-I’m **Junjie (JJ)**, a software engineer in Singapore. I like taking ideas from rough prototype to something people can actually use, especially where product engineering and AI meet.
+I’m **Junjie (JJ)**, a software engineer. I like taking ideas from rough prototype to something people can actually use, especially where product engineering and AI meet.
 
-I’m currently building frontend tools at **Tencent**. Previously, I shipped AI procurement products at **Didero** and worked on multilingual model post-training at **AI Singapore**. More about that work is on [my website](https://www.junjiehu.com).
+I’m currently building frontend tools at **Tencent**. Previously, I shipped AI procurement products at **Didero** in New York and worked on multilingual model post-training at **AI Singapore**. More about that work is on [my website](https://www.junjiehu.com).
 
 ### A few things I’ve built
 
