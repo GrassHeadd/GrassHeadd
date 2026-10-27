@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/header.svg" alt="Hi, I'm Junjie — software engineer building useful things with AI." width="100%" />
+  <img src="./assets/header.svg" alt="Hi, I'm Junjie - software engineer building useful things with AI." width="100%" />
 </div>
 
 <p align="center">
