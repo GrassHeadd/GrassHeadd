@@ -6,12 +6,12 @@
   <text x="72" y="70" fill="#4c7053" font-family="Arial, Helvetica, sans-serif" font-size="20" letter-spacing="4">HELLO FROM MY CORNER OF THE INTERNET</text>
   <text x="68" y="164" fill="#213f2c" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700">hi, i'm junjie<tspan fill="#689a6c">.</tspan></text>
   <text x="72" y="212" fill="#526759" font-family="Arial, Helvetica, sans-serif" font-size="27">software engineer · product builder · curious tinkerer</text>
-  <g fill="none" stroke="#689a6c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M1041 245 Q1045 195 1025 165 M1041 245 Q1044 191 1069 147 M1041 245 Q1060 207 1095 196"/>
-    <path d="M1032 208 Q1005 198 1003 177 Q1026 177 1032 208 Z" fill="#a9c59e"/>
-    <path d="M1053 193 Q1053 160 1078 151 Q1082 176 1053 193 Z" fill="#a9c59e"/>
-    <path d="M1074 218 Q1090 190 1115 194 Q1109 217 1074 218 Z" fill="#a9c59e"/>
+  <circle cx="1062" cy="150" r="80" fill="#e6eddc"/>
+  <g fill="#7fae80" stroke="#527d59" stroke-width="3" stroke-linejoin="round">
+    <path d="M1062 159 C1040 155 1026 140 1023 115 C1047 117 1061 131 1062 159 Z"/>
+    <path d="M1062 159 C1065 132 1082 117 1106 115 C1102 141 1087 156 1062 159 Z"/>
+    <path d="M1062 139 C1047 119 1050 97 1067 80 C1080 101 1079 121 1062 139 Z"/>
   </g>
-  <circle cx="1120" cy="77" r="8" fill="#d2dcad"/>
-  <circle cx="1089" cy="57" r="4" fill="#d2dcad"/>
+  <path d="M1062 159 V204" fill="none" stroke="#527d59" stroke-width="6" stroke-linecap="round"/>
+  <path d="M1039 205 H1085" fill="none" stroke="#527d59" stroke-width="4" stroke-linecap="round"/>
 </svg>
