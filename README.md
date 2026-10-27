@@ -29,3 +29,11 @@ I’m currently building frontend tools at **Tencent**. Previously, I shipped AI
 More experiments: [QOLplus (legacy)](https://github.com/GrassHeadd/QOLplus-legacy) · [dotfiles](https://github.com/GrassHeadd/dotfiles)
 
 <sub>Usually tinkering with developer tools, AI workflows, and the small details that make software feel good to use.</sub>
+
+### A little garden visitor
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GrassHeadd/GrassHeadd/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GrassHeadd/GrassHeadd/output/github-snake.svg" />
+  <img alt="A green snake wandering through my GitHub contributions" src="https://raw.githubusercontent.com/GrassHeadd/GrassHeadd/output/github-snake.svg" width="100%" />
+</picture>
